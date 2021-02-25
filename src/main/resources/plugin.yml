@@ -1,0 +1,12 @@
+name: MLGrush
+author: Rillekk
+version: 1.0
+main: net.rillekk.mlgrush.MLGRush
+commands:
+  setlobby:
+  setarenaspawn:
+  setarenabed:
+  setarenalow:
+  setarenabuilder:
+  setarena:
+  leave:
